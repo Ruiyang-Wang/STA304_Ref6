@@ -1,6 +1,6 @@
 # STA304_Ref6 Project
 
-This project is part of the STA304 course, focusing on data analysis and reporting using Quarto and R. It includes various analyses, visualizations, and discussions based on data from the [Hammer Dataset](https://jacobfilipp.com/hammer/).
+This project is part of the STA304 course, focusing on data analysis and reporting using SQL, Quarto and R. It includes various analyses, visualizations, and discussions based on data from the [Hammer Dataset](https://jacobfilipp.com/hammer/).
 
 ## Project Structure
 
