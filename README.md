@@ -6,7 +6,7 @@ This project is part of the STA304 course, focusing on data analysis and reporti
 
 - `paper/`: Contains the `.qmd` files for analysis and reporting.
 - `data/`: Contains the datasets used in the analysis.
-- `other/`: Contains LLM usage
+- `LLM`: Contains LLM usage
 - `README.md`: This file, providing an overview of the project.
 
 - ## LLM statement
