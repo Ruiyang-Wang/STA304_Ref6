@@ -1,6 +1,11 @@
 # STA304_Ref6 Project
 
-This project is part of the STA304 course, focusing on data analysis and reporting using SQL, Quarto and R. We use SQL in order to perform the data cleaning and filtering. Using Quarto and R, we perform the code of analysis and graphing. It includes various analyses, visualizations, and discussions based on data from the [Hammer Dataset](https://jacobfilipp.com/hammer/).
+This repository contains the work for the STA304 course, focusing on data analysis and reporting using SQL, Quarto, and R. The project involves cleaning and filtering data using SQL, performing analysis and visualization in R, and compiling results into a report using Quarto.
+
+The data for this project comes from the Hammer Dataset, and the analyses aim to uncover meaningful insights through statistical techniques, visualizations, and discussions.
+
+## About the dataset
+The Hammer Dataset used in this project provides a rich source for analysis, enabling exploration of various statistical methods and their applications. Learn more about the dataset from [Hammer Dataset](https://jacobfilipp.com/hammer/).
 
 ## Project Structure
 
@@ -18,4 +23,7 @@ This project is part of the STA304 course, focusing on data analysis and reporti
 - LLM Usage: Explores how language models assist in coding and data analysis.
   
 - ## LLM statement
-- LLM is used to find the way to push R works to github.
+Language Learning Models (LLMs) were used in the following capacities:
+- Automating repetitive R tasks.
+- Troubleshooting code issues.
+- Finding efficient methods to push R projects to GitHub.
